@@ -1,6 +1,6 @@
 # Jogo da Cobrinha
 
-Este projeto é uma implementação simples do clássico jogo da cobrinha usando HTML, CSS e JavaScript.
+Este projeto é uma implementação simples do clássico jogo da cobrinha usando HTML, CSS e JavaScript para o curso do IBRF com a Gama Academy.
 
 
 ## Requisitos
@@ -197,4 +197,7 @@ main()
 
 ## Créditos
 
-[O Sertão será CLoud](https://www.youtube.com/@sertaoseracloud).
+[Cláudio Rapôso](https://www.linkedin.com/in/cfraposo/).
+[O Sertão será Cloud](https://www.youtube.com/@sertaoseracloud).
+[Instituto BRF](https://www.institutobrf.com/pt)
+[Gama Academy](https://gama.academy).
